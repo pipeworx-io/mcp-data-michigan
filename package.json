@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-michigan",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Michigan Open Data (data.michigan.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b0f4bda4603ac90e125dd959821bdb98f1dccdae485313543bf8fe2707370ca4",
-    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
+    "sourceHash": "v1-61c5d7256008a344fdd49e194d40b95eff00575720d8bbedfa023934dd812b8d",
+    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
   }
 }
